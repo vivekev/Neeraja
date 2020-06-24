@@ -4,97 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-16 17:17:30</sys_created_on>
-            <sys_id>7e2dc87f1bbf3300fb9e2f86ec4bcbf6</sys_id>
+            <sys_created_on>2019-09-16 17:02:41</sys_created_on>
+            <sys_id>21c9c4fb1bbf3300fb9e2f86ec4bcbc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_93490_neeraja_innovate" sys_domain="global" view="Default view">6dc9c4fb1bbf3300fb9e2f86ec4bcbc2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-16 17:17:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_1</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-16 17:17:30</sys_created_on>
-            <sys_id>fe2dc87f1bbf3300fb9e2f86ec4bcbf6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_93490_neeraja_innovate" sys_domain="global" view="Default view">6dc9c4fb1bbf3300fb9e2f86ec4bcbc2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-16 17:17:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_by</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-16 17:17:30</sys_created_on>
-            <sys_id>722dc87f1bbf3300fb9e2f86ec4bcbf7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_93490_neeraja_innovate" sys_domain="global" view="Default view">6dc9c4fb1bbf3300fb9e2f86ec4bcbc2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-16 17:17:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-16 17:17:30</sys_created_on>
-            <sys_id>f22dc87f1bbf3300fb9e2f86ec4bcbf7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_93490_neeraja_innovate" sys_domain="global" view="Default view">6dc9c4fb1bbf3300fb9e2f86ec4bcbc2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-16 17:17:30</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reference_2</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-16 17:17:30</sys_created_on>
-            <sys_id>762dc87f1bbf3300fb9e2f86ec4bcbf7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_93490_neeraja_innovate" sys_domain="global" view="Default view">6dc9c4fb1bbf3300fb9e2f86ec4bcbc2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-16 17:17:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_3</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-16 17:17:30</sys_created_on>
-            <sys_id>f62dc87f1bbf3300fb9e2f86ec4bcbf7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_93490_neeraja_innovate" sys_domain="global" view="Default view">6dc9c4fb1bbf3300fb9e2f86ec4bcbc2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-16 17:17:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_data_structure_4</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-16 17:17:30</sys_created_on>
-            <sys_id>7a2dc87f1bbf3300fb9e2f86ec4bcbf7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_93490_neeraja_innovate" sys_domain="global" view="Default view">6dc9c4fb1bbf3300fb9e2f86ec4bcbc2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-16 17:17:30</sys_updated_on>
+            <sys_updated_on>2019-09-16 17:02:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -3,6 +3,13 @@
         <element label="New Due Date" max_length="40" name="duedate" type="due_date"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="New True/False" max_length="40" name="u_boolean_3" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="vivek git hub" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
         <element label="New Data Structure" max_length="800" name="u_data_structure_4" type="data_structure"/>
         <element label="New File Attachment" max_length="40" name="u_file_attachment_6" type="file_attachment"/>
         <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
